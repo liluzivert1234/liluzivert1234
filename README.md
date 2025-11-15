@@ -1,10 +1,6 @@
 <h1 align="center">You can call me Vert ◡̈</h1>
 <h3 align="center">An aspiring software developer with hodgepodge interests</h3>
 
-- 🔭 I’m currently studying at **De La Salle University**
-
-- 📄 Interested in **3D animations (blender), medical passion, robotic breakthroughs, human behavior, sociology, and greek mythology.**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liluzivert1234&label=Profile%20views&color=0e75b6&style=flat" alt="liluzivert1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liluzivert1234" alt="liluzivert1234" /></a> </p>
